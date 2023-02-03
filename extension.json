@@ -1,0 +1,18 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "True",
+    "name": "Efficient Fuel Consumption Predictions using Non-Linear Polynomial Regression",
+    "description": "In this project, we aim to predict fuel consumption of new light-duty vehicles in Canada using a non-linear polynomial regression model. The dataset, FuelConsumption.csv, contains model-specific fuel consumption ratings and estimated carbon dioxide emissions.",
+    "author": "Daniel Moreno",
+    "author_profile": "www.linkedin.com/in/dmoreno-ai",
+    "url": "https://github.com/moreno32/Efficient-Fuel-Consumption-Predictions-using-Non-Linear-Polynomial-Regression.git",
+    "website": "https://www.danielmoreno.com",
+    "image": "",
+    "templates": {
+        "author": "",
+        "docpath": ""
+    },
+    "dependencies": []
+}
