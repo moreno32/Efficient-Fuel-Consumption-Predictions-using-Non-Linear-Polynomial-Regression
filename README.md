@@ -4,7 +4,7 @@
 In this project, we aim to predict fuel consumption of new light-duty vehicles in Canada using a non-linear polynomial regression model. The dataset, FuelConsumption.csv, contains model-specific fuel consumption ratings and estimated carbon dioxide emissions. We will utilize libraries such as pandas, matplotlib, numpy, seaborn, scikit-learn, and scipy to perform data analysis and build the regression model. The project will involve steps such as importing required packages, downloading the data, understanding the data, reading the data in, building the polynomial regression model, evaluating its performance, and practicing with the model.
 
 ![Category and Subcategory](https://img.shields.io/badge/Data%20Analysis%20and%20prediction-Prediction-blue)
-![Category and Subcategory](https://img.shields.io/badge/Regression-Polynomial%20Non-Linear%20Regression-yellow)
+![Category and Subcategory](https://img.shields.io/badge/Regression-Non%20Linear%20Regression-yellow)
 
 ## 🖼️ Images of the Project:
 <img align="center" alt="jpg" src="https://raw.githubusercontent.com/moreno32/Efficient-Fuel-Consumption-Predictions-using-Non-Linear-Polynomial-Regression/master/reports/figures/Efficient-Fuel-Non-Linear-Polynomial-Regression.png" width="700" height="450" /><br>
